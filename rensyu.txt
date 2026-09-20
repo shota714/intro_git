@@ -1,2 +1,4 @@
 gitrensyudayo
 hennkousitayo
+git add.
+git commit.
